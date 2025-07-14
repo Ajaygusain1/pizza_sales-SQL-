@@ -62,4 +62,13 @@ Each question was solved using optimized SQL queries including `JOIN`, `GROUP BY
 ## Schema
 <img width="1373" height="696" alt="Screenshot 2025-07-13 131319" src="https://github.com/user-attachments/assets/fe772fd1-10d4-4550-b781-f41b032d7bd2" />
 
+---
+## Power BI dashboard for pizza sales
+<img width="1333" height="741" alt="Screenshot 2025-07-14 220132" src="https://github.com/user-attachments/assets/bf6f839d-950f-433a-8ff9-fa7a04f4de3c" />
+
+**on friday most people like to ordered the pizza**
+<img width="1317" height="732" alt="Screenshot 2025-07-14 220316" src="https://github.com/user-attachments/assets/6703485d-4f6c-41ff-8685-c8a27c838b8b" />
+
+
+
 
